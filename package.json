@@ -1,0 +1,15 @@
+{
+  "name": "axeordew",
+  "version": "1.0.0",
+  "description": "A nextjs application where a user is asked is it a body spray or soft drink.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nextjs",
+    "typescript"
+  ],
+  "author": "jeremy josey",
+  "license": "ISC"
+}
